@@ -48,8 +48,23 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+Full adder:
+[FULL ADDER.pdf](https://github.com/user-attachments/files/22727866/FULL.ADDER.pdf)
+
+Full Subractor:
+[FULLSUB.pdf](https://github.com/user-attachments/files/22727873/FULLSUB.pdf)
+
+
+
 
 **Output Timing Waveform**
+Full Adder:
+<img width="1920" height="1032" alt="FULL ADDER 2" src="https://github.com/user-attachments/assets/da0dba51-5a6c-4104-8304-6921170fbc8b" />
+
+Full Subractor:
+
+
+
 
 **Result:**
 
